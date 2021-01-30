@@ -1,4 +1,4 @@
-# django-docker
+# geodjango-docker
 Docker environment consisting of 2 containers, `app` and `db`, to be used for Python/Django and PostgreSQL/PostGIS development.
 
 The stack:
